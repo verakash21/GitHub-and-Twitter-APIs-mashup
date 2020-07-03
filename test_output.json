@@ -1,0 +1,181 @@
+{
+    "Projects": [
+        {
+            "project_name": "ReactiveCocoa",
+            "project_description": "Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.",
+            "tweets": [
+                {
+                    "username": "motakasoft",
+                    "tweet": "GitHub Trending Archive, 25 Jun 2020, Swift. apple/swift-argument-parser, AppPear/ChartView, apple/swift-log, RxSwi… https://t.co/Y55IH4VwT8"
+                },
+                {
+                    "username": "motakasoft",
+                    "tweet": "GitHub Trending Archive, 24 Jun 2020, Swift. ReactiveCocoa/ReactiveSwift, groue/GRDB.swift, twostraws/HackingWithSw… https://t.co/yQYjbNUP1l"
+                }
+            ]
+        },
+        {
+            "project_name": "reactive",
+            "project_description": "The Reactive Extensions for .NET",
+            "tweets": [
+                {
+                    "username": "WeTalkGames",
+                    "tweet": "RT @obeykube: Arkado Returns: TATE Mode is UV/BLACK LIGHT Reactive!! Get your own at https://t.co/V50M4gyUb3!\n\n#RETROGAMING #RETROGAMER #AR…"
+                },
+                {
+                    "username": "☆ Hashi ☆💚",
+                    "tweet": "RT @emmaloves_blog: Classic 'reactive' approach rather than 'proactive' - we will wait for people to get seriously sick/die before we imple…"
+                },
+                {
+                    "username": "Texan Wahala 💋🇳🇬🇨🇱💙",
+                    "tweet": "@GregAbbott_TX let's be proactive not reactive this time. https://t.co/Itcp1fP4zN"
+                },
+                {
+                    "username": "Omair Q Lodhi",
+                    "tweet": "@ImranKhanPTI Was the last train tragedy not enough to warrant a review. Why is there a review after an accident. T… https://t.co/Sf08f9MAD4"
+                },
+                {
+                    "username": "Luxury Dog Boarding",
+                    "tweet": "Give Dog-Reactive Dogs Some Space\nhttps://t.co/BcFOStgrSZ"
+                }
+            ]
+        },
+        {
+            "project_name": "ReactiveUI",
+            "project_description": "An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.",
+            "tweets": [
+                {
+                    "username": "Antão Almada",
+                    "tweet": "RT @GerardoLijs: Don't miss this if you want to learn more about DynamicData and ReactiveUI. We are using it for our projects for more than…"
+                },
+                {
+                    "username": "Gerardo Lijs",
+                    "tweet": "Don't miss this if you want to learn more about DynamicData and ReactiveUI. We are using it for our projects for mo… https://t.co/3rKOem4qHJ"
+                },
+                {
+                    "username": "ReactiveUI",
+                    "tweet": "@CapitalbayNews thank you for financial supporting open-source 🙏 - your contribution makes a difference!\nhttps://t.co/4BNLAtmWsn"
+                },
+                {
+                    "username": "Rich Bryant",
+                    "tweet": "@rlittlesii @Shmuelie @mzikmunddev @DanJSiegel @MvvmCross @prismlib @ReactiveXUI @UnoPlatform @WindowsUI Rodney, if… https://t.co/yB6bVP4F2R"
+                },
+                {
+                    "username": "Rodney Littles II",
+                    "tweet": "@Shmuelie @mzikmunddev @DanJSiegel @MvvmCross @prismlib @ReactiveXUI @UnoPlatform @WindowsUI Thank you for reportin… https://t.co/fcK2G1mK1Y"
+                }
+            ]
+        },
+        {
+            "project_name": "RxSwift",
+            "project_description": "Reactive Programming in Swift",
+            "tweets": [
+                {
+                    "username": "Celpan Dmitrii",
+                    "tweet": "These new collection view closure based API combined with \"UICollectionViewDiffableDataSource\" looks so similar to… https://t.co/b3jUkMzWW1"
+                },
+                {
+                    "username": "Alberto",
+                    "tweet": "Great library #RxGesture, #RxSwift reactive wrapper for view gestures. #iosdev \nhttps://t.co/UD93nTsBCF https://t.co/8YvXnapdOs"
+                },
+                {
+                    "username": "Bharath",
+                    "tweet": "@deebellare Ah hard luck :-(.. Working on iOS 13 especially with Combine makes life lot easier.. No more RxSwift and it’s cryptic stacktrace"
+                },
+                {
+                    "username": "Daniel",
+                    "tweet": "@richardleggett Reactive programming and functional programming are the not the same thing, are they?\n\nI’ve used Rx… https://t.co/poXL8VEAGi"
+                },
+                {
+                    "username": "Rob J ☕👨‍💻🙅‍♂️",
+                    "tweet": "RT @RussHWolf: The question of Coroutines and RxSwift interop in #KotlinMultiplatform has come up a couple times in my circles recently. He…"
+                }
+            ]
+        },
+        {
+            "project_name": "ReactiveSwift",
+            "project_description": "Streams of values over time",
+            "tweets": [
+                {
+                    "username": "Roberto Garrido  (@ 🏡)",
+                    "tweet": "@mecid I’d say property wrappers and combine, specifically, how could we develop the same use cases as we do now wi… https://t.co/RbVbfBkyXu"
+                },
+                {
+                    "username": "motakasoft",
+                    "tweet": "GitHub Trending Archive, 25 Jun 2020, Swift. apple/swift-argument-parser, AppPear/ChartView, apple/swift-log, RxSwi… https://t.co/Y55IH4VwT8"
+                },
+                {
+                    "username": "motakasoft",
+                    "tweet": "GitHub Trending Archive, 24 Jun 2020, Swift. ReactiveCocoa/ReactiveSwift, groue/GRDB.swift, twostraws/HackingWithSw… https://t.co/yQYjbNUP1l"
+                },
+                {
+                    "username": "NeoNachoSoto",
+                    "tweet": "I migrated ReactiveSwift from flying to announce that I've accepted an offer to fly the ERJ-175 for..."
+                }
+            ]
+        },
+        {
+            "project_name": "ReactiveObjC",
+            "project_description": "The 2.x ReactiveCocoa Objective-C API: Streams of values over time",
+            "tweets": []
+        },
+        {
+            "project_name": "RxJS",
+            "project_description": "The Reactive Extensions for JavaScript",
+            "tweets": [
+                {
+                    "username": "Syed M. Taha",
+                    "tweet": "RT @BenLesh: Dear #RxJS community, I've put together a pull request containing a glossary of terms related to RxJS, how it is described and…"
+                },
+                {
+                    "username": "Christian Binzer",
+                    "tweet": "RT @BenLesh: Dear #RxJS community, I've put together a pull request containing a glossary of terms related to RxJS, how it is described and…"
+                },
+                {
+                    "username": "Richard Shergold",
+                    "tweet": "@RishabVai @Ionicframework There are some great resources out there on all this sort of stuff e.g https://t.co/DHjJGHlFTn"
+                },
+                {
+                    "username": "Michael Rx Hladky",
+                    "tweet": "RT @BenLesh: Dear #RxJS community, I've put together a pull request containing a glossary of terms related to RxJS, how it is described and…"
+                }
+            ]
+        },
+        {
+            "project_name": "ReactiveNetwork",
+            "project_description": " Android library listening network connection state and Internet connectivity with RxJava Observables",
+            "tweets": []
+        },
+        {
+            "project_name": "ReactiveTraderCloud",
+            "project_description": "Real-time FX trading showcase by Adaptive.",
+            "tweets": []
+        },
+        {
+            "project_name": "platform",
+            "project_description": "Reactive libraries for Angular",
+            "tweets": [
+                {
+                    "username": "₣E₤IPE",
+                    "tweet": "RT @Sodyo020: Create TikTok ads that convert by embracing the platform’s storytelling style https://t.co/GeZFHijcks"
+                },
+                {
+                    "username": "😈",
+                    "tweet": "RT @ExposedEgypt: THIS PLATFORM IS FOR ALL SURVIVORS.\nTHIS PLATFORM IS FOR YOUR STORIES.\nTHIS PLATFORM WILL KEEP YOU SAFE AND ANONYMOUS.\nTH…"
+                },
+                {
+                    "username": "Lynn Smith",
+                    "tweet": "@HeidiGiokos I hope feel better. It takes courage to come out and reveal that you tested positive. Thank you for br… https://t.co/95ZHoWtSj8"
+                },
+                {
+                    "username": "Catherine Gemmell",
+                    "tweet": "RT @SeabirdCentre: In the summer #Scotland is home to over 25 species of #seabird. \nIconic species like the #puffin are well recognised, bu…"
+                },
+                {
+                    "username": "pring",
+                    "tweet": "RT @kwinbih: stop giving bukn0y a platform 🦋✨🧚🏼‍♀️🌟"
+                }
+            ]
+        }
+    ]
+}
